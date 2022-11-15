@@ -14,3 +14,19 @@
     width: 100%;
     height: auto;
 }
+
+.post-icerik{
+    background: whitesmoke;
+    height: 250px;
+}
+
+.footer-row{
+    height: 150px;
+    padding-top: 20px;
+}
+
+.list-item li:hover{
+    text-decoration: underline;
+    color: cadetblue;
+    cursor: pointer;
+}
