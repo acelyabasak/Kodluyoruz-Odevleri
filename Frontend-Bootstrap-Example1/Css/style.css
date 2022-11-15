@@ -30,3 +30,9 @@
     color: cadetblue;
     cursor: pointer;
 }
+
+/* Top Menu */
+.top-menu ul li:hover{
+border: 1px solid #00d2d3;
+}
+/* Top Menu */
