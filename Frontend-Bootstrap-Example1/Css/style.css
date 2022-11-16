@@ -6,6 +6,9 @@
     margin-top: 10px;
 }
 
+.list-icon i{
+padding-right: 4px;
+}
 .avatar-box{
     text-align: center;
 }
