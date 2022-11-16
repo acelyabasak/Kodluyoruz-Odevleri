@@ -36,3 +36,68 @@
 border: 1px solid #00d2d3;
 }
 /* Top Menu */
+.main-text{
+    color: #ffb502;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.main-text2{
+    font-weight: bold;
+    color: #232;
+}
+
+.main-top-about {
+    background: #EAECEE;
+}
+
+.main-picture{
+    width: 170px;
+    height: 170px;
+}
+
+/* Skills Start */
+.section-title h2::after {
+    content: "";
+    width: 120px;
+    height: 2px;
+    display: inline-block;
+    background: #ffb502;
+    margin: 4px 10px;
+}
+
+.skills .progress{
+    height: 60px;
+    display: block;
+    background: none;
+    border-radius: 2px;
+}
+
+.skills .progress .skill {
+    padding: 10px 0;
+    margin: 0;
+    text-transform: uppercase;
+    display: block;
+    font-weight: 600;
+}
+
+.skills .progress .skill .val {
+    float: right;
+    font-style: normal;
+}
+
+.skills .progress-bar-wrap {
+    background: rgba(100, 98, 98, 0.2);
+}
+
+.skills .progress-bar {
+    width: 1px;
+    height: 10px;
+    transition: 0.9s;
+    background-color: #ffb502;
+}
+
+.main-skills{
+    background: #EAECEE;
+}
+
+/* Skills End */
